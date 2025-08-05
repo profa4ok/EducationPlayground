@@ -1,7 +1,8 @@
-//: [Previous](@previous)
-
 import Foundation
 
-var greeting = "Hello, playground"
+var greeting = "VarLet"
+var name = "Alex"
+name = "Maks"
 
-//: [Next](@next)
+let age: Int = 25
+
